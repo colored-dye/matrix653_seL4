@@ -4,10 +4,6 @@
 [submodule "linux"]
 	path = projects/linux
 	url = https://github.com/smaccm/odroid-3.14.y-linaro
-[submodule "kernel"]
-	path = kernel
-	url = https://github.com/smaccm/seL4
-	branch = arm_hyp
 [submodule "libcpio"]
 	path = libs/libcpio
 	url = https://github.com/seL4/libcpio
