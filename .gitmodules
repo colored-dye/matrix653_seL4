@@ -1,0 +1,70 @@
+[submodule "sel4arm-vmm"]
+	path = projects/sel4arm-vmm
+	url = https://github.com/smaccm/sel4arm-vmm
+[submodule "linux"]
+	path = projects/linux
+	url = https://github.com/smaccm/odroid-3.14.y-linaro
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/smaccm/seL4
+	branch = arm_hyp
+[submodule "libcpio"]
+	path = libs/libcpio
+	url = https://github.com/seL4/libcpio
+[submodule "libelf"]
+	path = libs/libelf
+	url = https://github.com/seL4/libelf
+[submodule "libmuslc"]
+	path = libs/libmuslc
+	url = https://github.com/seL4/libmuslc
+[submodule "libplatsupport"]
+	path = libs/libplatsupport
+	url = https://github.com/seL4/libplatsupport
+[submodule "libsel4allocman"]
+	path = libs/libsel4allocman
+	url = https://github.com/seL4/libsel4allocman
+[submodule "libsel4arm-vmm"]
+	path = libs/libsel4arm-vmm
+	url = https://github.com/smaccm/libsel4arm-vmm
+[submodule "libsel4muslcsys"]
+	path = libs/libsel4muslcsys
+	url = https://github.com/seL4/libsel4muslcsys
+[submodule "libsel4platsupport"]
+	path = libs/libsel4platsupport
+	url = https://github.com/seL4/libsel4platsupport
+[submodule "libsel4simple"]
+	path = libs/libsel4simple
+	url = https://github.com/seL4/libsel4simple
+[submodule "libsel4simple-default"]
+	path = libs/libsel4simple-default
+	url = https://github.com/seL4/libsel4simple-default
+[submodule "libsel4simple-stable"]
+	path = libs/libsel4simple-stable
+	url = https://github.com/seL4/libsel4simple-stable
+[submodule "libsel4test"]
+	path = libs/libsel4test
+	url = https://github.com/seL4/libsel4test
+[submodule "libsel4twinkle"]
+	path = libs/libsel4twinkle
+	url = https://github.com/smaccs/libsel4twinkle
+[submodule "libsel4utils"]
+	path = libs/libsel4utils
+	url = https://github.com/seL4/libsel4utils
+[submodule "libsel4vka"]
+	path = libs/libsel4vka
+	url = https://github.com/seL4/libsel4vka
+[submodule "libsel4vspace"]
+	path = libs/libsel4vspace
+	url = https://github.com/seL4/libsel4vspace
+[submodule "libutils"]
+	path = libs/libutils
+	url = https://github.com/seL4/libutils
+[submodule "common-tool"]
+	path = tools/common
+	url = https://github.com/seL4/common-tool
+[submodule "elfloader-tool"]
+	path = tools/elfloader
+	url = https://github.com/seL4/elfloader
+[submodule "kbuild-tool"]
+	path = tools/kbuild
+	url = https://github.com/seL4/kbuild-tool

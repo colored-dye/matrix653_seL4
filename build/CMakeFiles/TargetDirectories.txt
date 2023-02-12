@@ -1,2 +1,0 @@
-/home/colored-dye/matrix653_seL4/build/CMakeFiles/rebuild_cache.dir
-/home/colored-dye/matrix653_seL4/build/CMakeFiles/edit_cache.dir
