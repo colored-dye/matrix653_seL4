@@ -1,44 +1,66 @@
-[submodule "projects/sel4arm-vmm"]
+[submodule "sel4arm-vmm"]
+	path = projects/sel4arm-vmm
 	url = https://github.com/smaccm/sel4arm-vmm
-[submodule "projects/linux"]
+[submodule "linux"]
+	path = projects/linux
 	url = https://github.com/smaccm/odroid-3.14.y-linaro
-[submodule "libs/libcpio"]
+[submodule "libcpio"]
+	path = libs/libcpio
 	url = https://github.com/seL4/libcpio
-[submodule "libs/libelf"]
+[submodule "libelf"]
+	path = libs/libelf
 	url = https://github.com/seL4/libelf
-[submodule "libs/libmuslc"]
+[submodule "libmuslc"]
+	path = libs/libmuslc
 	url = https://github.com/seL4/libmuslc
-[submodule "libs/libplatsupport"]
+[submodule "libplatsupport"]
+	path = libs/libplatsupport
 	url = https://github.com/seL4/libplatsupport
-[submodule "libs/libsel4allocman"]
+[submodule "libsel4allocman"]
+	path = libs/libsel4allocman
 	url = https://github.com/seL4/libsel4allocman
-[submodule "libs/libsel4arm-vmm"]
+[submodule "libsel4arm-vmm"]
+	path = libs/libsel4arm-vmm
 	url = https://github.com/smaccm/libsel4arm-vmm
-[submodule "libs/libsel4muslcsys"]
+[submodule "libsel4muslcsys"]
+	path = libs/libsel4muslcsys
 	url = https://github.com/seL4/libsel4muslcsys
-[submodule "libs/libsel4platsupport"]
+[submodule "libsel4platsupport"]
+	path = libs/libsel4platsupport
 	url = https://github.com/seL4/libsel4platsupport
-[submodule "libs/libsel4simple"]
+[submodule "libsel4simple"]
+	path = libs/libsel4simple
 	url = https://github.com/seL4/libsel4simple
-[submodule "libs/libsel4simple-default"]
+[submodule "libsel4simple-default"]
+	path = libs/libsel4simple-default
 	url = https://github.com/seL4/libsel4simple-default
-[submodule "libs/libsel4simple-stable"]
+[submodule "libsel4simple-stable"]
+	path = libs/libsel4simple-stable
 	url = https://github.com/seL4/libsel4simple-stable
-[submodule "libs/libsel4test"]
+[submodule "libsel4test"]
+	path = libs/libsel4test
 	url = https://github.com/seL4/libsel4test
-[submodule "libs/libsel4twinkle"]
+[submodule "libsel4twinkle"]
+	path = libs/libsel4twinkle
 	url = https://github.com/smaccs/libsel4twinkle
-[submodule "libs/libsel4utils"]
+[submodule "libsel4utils"]
+	path = libs/libsel4utils
 	url = https://github.com/seL4/libsel4utils
-[submodule "libs/libsel4vka"]
+[submodule "libsel4vka"]
+	path = libs/libsel4vka
 	url = https://github.com/seL4/libsel4vka
-[submodule "libs/libsel4vspace"]
+[submodule "libsel4vspace"]
+	path = libs/libsel4vspace
 	url = https://github.com/seL4/libsel4vspace
-[submodule "libs/libutils"]
+[submodule "libutils"]
+	path = libs/libutils
 	url = https://github.com/seL4/libutils
-[submodule "tools/common"]
+[submodule "common-tool"]
+	path = tools/common
 	url = https://github.com/seL4/common-tool
-[submodule "tools/elfloader"]
+[submodule "elfloader-tool"]
+	path = tools/elfloader
 	url = https://github.com/seL4/elfloader
-[submodule "tools/kbuild"]
+[submodule "kbuild-tool"]
+	path = tools/kbuild
 	url = https://github.com/seL4/kbuild-tool
