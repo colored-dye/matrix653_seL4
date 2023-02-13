@@ -42,7 +42,7 @@
 	url = https://github.com/seL4/libsel4test
 [submodule "libsel4twinkle"]
 	path = libs/libsel4twinkle
-	url = https://github.com/smaccs/libsel4twinkle
+	url = https://github.com/smaccm/libsel4twinkle
 [submodule "libsel4utils"]
 	path = libs/libsel4utils
 	url = https://github.com/seL4/libsel4utils
@@ -60,7 +60,7 @@
 	url = https://github.com/seL4/common-tool
 [submodule "elfloader-tool"]
 	path = tools/elfloader
-	url = https://github.com/seL4/elfloader
+	url = https://github.com/seL4/elfloader-tool
 [submodule "kbuild-tool"]
 	path = tools/kbuild
 	url = https://github.com/seL4/kbuild-tool
