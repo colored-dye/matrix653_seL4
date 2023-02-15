@@ -1,0 +1,15 @@
+kernel https://github.com/seL4/seL4
+projects/camkes-tool https://github.com/seL4/camkes-tool
+projects/camkes-vm-images https://github.com/seL4/camkes-vm-images
+projects/capdl https://github.com/seL4/capdl
+projects/global-components https://github.com/seL4/global-components
+projects/musllibc https://github.com/seL4/musllibc
+projects/projects_libs https://github.com/seL4/projects_libs
+projects/seL4_libs https://github.com/seL4/seL4_libs
+projects/seL4_projects_libs https://github.com/seL4/seL4_projects_libs
+projects/sel4runtime https://github.com/seL4/sel4runtime
+projects/util_libs https://github.com/seL4/util_libs
+projects/vm https://github.com/seL4/camkes-vm
+projects/vm-linux https://github.com/seL4/camkes-vm-linux
+tools/polly https://github.com/ruslo/polly
+tools/seL4 https://github.com/seL4/seL4_tools

@@ -1,0 +1,18 @@
+/.sel4_cache/
+/build/
+/kernel/
+/projects/camkes-tool/
+/projects/camkes-vm-images/
+/projects/capdl/
+/projects/global-components/
+/projects/musllibc/
+/projects/projects_libs/
+/projects/seL4_libs/
+/projects/seL4_projects_libs/
+/projects/sel4runtime/
+/projects/util_libs/
+# /projects/vm/
+# /projects/vm-examples/
+/projects/vm-linux/
+/tools/polly/
+/tools/seL4/
